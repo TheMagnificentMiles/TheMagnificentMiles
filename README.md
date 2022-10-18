@@ -15,7 +15,11 @@ and I'm trying to learn c++.
 
 Thanks for sitting through this: Miles
 
-Ps. my favorite color is Blue.
+Ps. my favorite colors to mix together are:
+  - White
+  - Really dark gray
+  - Light woody tan
+  - Green
 
 <!---
 TheMagnificentMiles/TheMagnificentMiles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
