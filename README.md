@@ -20,6 +20,7 @@ Ps. my favorite colors to mix together are:
   - Really dark gray
   - Light woody tan
   - Green
+  - And sometimes a light blueish
 
 <!---
 TheMagnificentMiles/TheMagnificentMiles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
