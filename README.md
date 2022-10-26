@@ -1,4 +1,5 @@
-Hi! Im TheMagnificentMiles;
+Hi! Im TheMagnificentMiles
+
 I love to
   - Code
   - Game
@@ -22,6 +23,7 @@ Ps. my favorite colors to mix together are:
   - Green
   - And sometimes a light blueish
 
+Pps. I'm by no means good at design, as my known languages show, sorry that this doesnt look good.
 <!---
 TheMagnificentMiles/TheMagnificentMiles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
