@@ -1,6 +1,6 @@
 Hi! Im TheMagnificentMiles
 
-I love to
+I love to:
   - Code
   - Game
   - Code games
