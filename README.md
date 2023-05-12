@@ -1,4 +1,4 @@
-Hi! Im TheMagnificentMiles
+Hi! Im Miles
 
 I love to:
   - Code
